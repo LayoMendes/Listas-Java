@@ -16,4 +16,5 @@ public class Main {
         lista.adicionar(40);
         System.out.print("Após adicionar 40: ");
         lista.exibir();  // 10 -> 30 -> 40 -> null
-    }
+    
+}}
