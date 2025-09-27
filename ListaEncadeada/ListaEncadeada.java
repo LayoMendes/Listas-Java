@@ -45,7 +45,8 @@ public class ListaEncadeada {
         }
     }
 
-    // Exibe os elementos da lista
+
+    // exibe os elementos da lista
     public void exibir() {
         No atual = inicio;
         while (atual != null) {
